@@ -1,0 +1,6 @@
+"Invoice #",Date,Customer,Cashier,Subtotal,Discount,Total,Paid,Change,"Payment Method"
+INV-20260405-4557,"05-04-2026 16:40:24","Walk-in Customer",Administrator,60.00,5.00,55.00,55.00,0.00,online
+INV-20260405-5412,"05-04-2026 14:31:36","Walk-in Customer",Administrator,45.00,0.00,45.00,45.00,0.00,card
+INV-20260405-8280,"05-04-2026 13:29:43","Walk-in Customer",Administrator,45.00,0.00,45.00,45.00,0.00,cash
+INV-20260405-3084,"05-04-2026 13:25:18","Walk-in Customer",Administrator,45.00,0.00,45.00,45.00,0.00,cash
+INV-20260326-3297,"27-03-2026 02:51:36","Walk-in Customer",Administrator,64.00,0.03,63.97,64.00,0.03,cash

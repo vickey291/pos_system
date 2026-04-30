@@ -1,0 +1,4 @@
+Code,Name,Company,"Batch Number","Expiry Date","Purchase Price","Sale Price",Stock,"Min Stock Level"
+M12,Panadol,GKS,PA1234,2023-04-27,50.00,60.00,30,10
+M23,"Pandol extra",Sanofi,BATH345,2027-03-23,50.00,70.00,30,10
+MED001,"Paracetamol 500mg",GSK,BATCH001,2025-12-31,5.00,8.00,92,10
